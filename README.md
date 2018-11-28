@@ -1,3 +1,3 @@
 # python1
-Test python program
-Tryinh first commit.
+Test python program.
+Trying first commit.
